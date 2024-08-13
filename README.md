@@ -37,6 +37,7 @@ int main() {
     return 0;
 }
 
+ output
 /*Size of a1: 4byte
 Size of a2: 4byte
 Size of a3: 1byte
